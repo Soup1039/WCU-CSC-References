@@ -9,5 +9,12 @@ public class FILENAME {
     }
 } 
 ```
-Notes:
-- No matter what you do in the file, you *always* need a public class encapsulating your program! Otherwise the computer has no idea how to find the file.
+Note: No matter what you do in the file, you *always* need a public class encapsulating your program! Otherwise the computer has no idea how to find the file.
+
+## Import Statements
+``` 
+import java.WHATEVER;
+public class FILENAME {
+    
+    };
+```
